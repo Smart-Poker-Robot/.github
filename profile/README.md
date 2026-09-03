@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="../art/smart_poker_robot_logo_11.png" alt="Smart Poker Robot logo" width="280">
+      <img src="../art/logo.png" alt="Smart Poker Robot logo" width="280">
     </td>
   </tr>
 </table>
