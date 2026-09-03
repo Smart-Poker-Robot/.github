@@ -1,34 +1,44 @@
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="../art/smart_poker_robot_logo_11.png" alt="Smart Poker Robot logo" width="280">
+    </td>
+  </tr>
+</table>
+
+<h1 align="center">Smart Poker Robot</h1>
+
 <p align="center">
-  <img src="../art/smart_poker_robot_logo_11.png" alt="Smart Poker Robot logo" width="420">
+  <strong>Adaptive poker automation for modern teams and operators.</strong><br>
+  Real-time analysis, configurable behavior, coordinated sessions, and dependable operational control in one focused platform.
 </p>
 
-### Welcome to Smart Poker Robot
+<p align="center">
+  <a href="https://smartpokerrobot.com/"><strong>Explore the platform</strong></a> ·
+  <a href="https://smartpokerrobot.com/ai-poker-robot/">AI Poker Robot</a> ·
+  <a href="https://smartpokerrobot.com/contact-smart-poker-robot/">Contact the team</a>
+</p>
 
-We build AI-powered poker automation software for teams and operators who value adaptable decision-making, reliable workflows, and scalable session management. Smart Poker Robot combines real-time analysis, configurable behavior, multi-table coordination, and operational control in one focused platform.
+### Built for adaptable play
 
-Our goal is simple: make modern poker automation easier to evaluate, configure, and operate responsibly.
+Smart Poker Robot makes modern poker automation easier to evaluate, configure, and operate responsibly.
 
-**What we build:**
-- [AI Poker Robot](https://smartpokerrobot.com/ai-poker-robot/) — adaptive poker automation for evolving game conditions
-- [White-Label Poker Software](https://smartpokerrobot.com/white-label/) — a customizable foundation for your own poker software offering
-- Configurable gameplay profiles and behavioral pacing
-- Multi-table workflow and session coordination
-- Cross-platform deployment designed around operational continuity
+| Adaptive decision-making | Operational control |
+| --- | --- |
+| Real-time context and configurable gameplay profiles | Multi-table workflow and session coordination |
+| Behavioral pacing for evolving game conditions | Cross-platform deployment designed for continuity |
 
 ### Explore Smart Poker Robot
 
-| Start here | Learn more |
-|------------|------------|
-| Product overview | [Discover Smart Poker Robot](https://smartpokerrobot.com/) |
-| AI poker software | [See the AI Poker Robot](https://smartpokerrobot.com/ai-poker-robot/) |
-| Business solutions | [Explore White-Label Software](https://smartpokerrobot.com/white-label/) |
-| Plans and options | [View Pricing](https://smartpokerrobot.com/pricing/) |
-| Company | [About Smart Poker Robot](https://smartpokerrobot.com/about/) |
-| Questions and partnerships | [Contact Us](https://smartpokerrobot.com/contact-smart-poker-robot/) |
+- [Product overview](https://smartpokerrobot.com/) — discover the platform
+- [AI poker software](https://smartpokerrobot.com/ai-poker-robot/) — see the AI Poker Robot
+- [Business solutions](https://smartpokerrobot.com/white-label/) — explore White-Label Software
+- [Plans and options](https://smartpokerrobot.com/pricing/) — view pricing
+- [Company](https://smartpokerrobot.com/about/) — learn about Smart Poker Robot
 
 ### Poker AI knowledge hub
 
-Our [blog](https://smartpokerrobot.com/blog/) explores the technology and operational questions behind modern poker automation:
+Visit our [blog](https://smartpokerrobot.com/blog/) for practical perspectives on the technology and operations behind modern poker automation:
 
 - [How Machine Learning Is Used in Poker Bots](https://smartpokerrobot.com/machine-learning-poker-bot/)
 - [AI Poker Bots vs. Poker Tracking Software](https://smartpokerrobot.com/ai-poker-bots-vs-poker-tracking-software/)
@@ -39,9 +49,9 @@ Our [blog](https://smartpokerrobot.com/blog/) explores the technology and operat
 
 ### Our perspective
 
-Modern poker automation is more than a fixed list of actions. It is a combination of real-time context, probabilistic decision frameworks, behavior configuration, table management, and dependable infrastructure. We focus on the complete operating experience—adaptability, consistency, transparency, and maintainability—not just isolated features.
+Effective poker automation is more than a fixed list of actions. It brings together real-time context, probabilistic decision frameworks, behavior configuration, table management, and dependable infrastructure. We focus on the complete operating experience: adaptability, consistency, transparency, and maintainability.
 
-Please use automation only where permitted by the applicable poker platform, local law, and relevant terms of service.
+> **Responsible use:** Please use automation only where permitted by the applicable poker platform, local law, and relevant terms of service.
 
 ### Connect with us
 
