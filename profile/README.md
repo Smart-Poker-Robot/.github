@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../art/smart_poker_robot_logo_11.png" alt="Smart Poker Robot logo" width="420">
+</p>
+
 ### Welcome to Smart Poker Robot
 
 We build AI-powered poker automation software for teams and operators who value adaptable decision-making, reliable workflows, and scalable session management. Smart Poker Robot combines real-time analysis, configurable behavior, multi-table coordination, and operational control in one focused platform.
